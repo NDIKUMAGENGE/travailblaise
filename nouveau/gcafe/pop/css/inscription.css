@@ -1,0 +1,29 @@
+
+body{
+	background-image: url("monimage.jpg");
+	
+}
+#titre{
+	text-align:center;
+	font-size:20px;
+	
+}
+.identification{
+	padding-left:100px;	
+}
+.lab{
+	width : 40%;
+	left:10px;
+	margin-bottom :7px;
+	margin-top :7px;
+	margin-right : 20px;
+	
+}
+tr td  td{
+	width : 250px;
+}
+.setfield{
+	border-style : 15px;
+	border-color:black;
+	
+}

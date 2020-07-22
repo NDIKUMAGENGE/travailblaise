@@ -1,0 +1,102 @@
+#affi33{
+	border:1px solid red;
+	float:left;
+	width:calc( 100% - 21em );
+	height:20em;
+	min-width:45em;
+	padding:0em 0em;
+	background-color: #F7F9F7;
+	overflow:auto;
+	margin:0.5em;
+	border:0.1em solid #E2F3DE;
+	border-radius:0.2em;
+}
+#affi33 .actuel{
+	margin-right:3px;
+	padding:6px;
+	float:left;
+	width:48%;
+}
+#affi33 .actuel span, #affi33 .dest span{
+	font-family:eim;
+	margin-left:9px;
+	font-size:0.9em;
+}
+#affi33 .dest{
+	float:left;
+	padding:6px;
+	width:48%;
+}
+#autovx33,#autovx32{
+	width:23em;
+	margin:0.5em;
+	padding:0.4em 0em 1em 0em;
+	border:0.1em solid #555;
+	border-radius:0.2em;
+	background-color:#F0EEEC;
+	height:15em;
+}
+#autovx32 span{
+	color:green;
+	font-weight:bold;
+	font-size:1.2em;
+	
+}
+#autovx33 #as,#autovx32 #as{
+	font-size:0.8em;
+	color:#888;
+}
+#autovx33 #as select{
+font-size:1.3em;
+width:14em;
+padding:0.3em 0.4em;
+}
+#autovx33 #as input,#autovx32 #as input{
+font-size:1.3em;
+width:14em;
+padding:0.3em 0.4em;
+}
+#autovx33 #qa,#autovx32 #qa{
+padding:0em;
+width:80%;
+margin:0.4em 0em 0.8em 2em;
+}
+#recours{
+	margin-top:2px;
+}
+#recours table{
+	border-collapse:collapse;
+	width:100%;
+	margin-top:2px;
+}
+#recours table theader th{
+	text-align:left;
+}
+#recours table td, #recours table th{
+	border:1px solid #051030;
+	text-align:left;
+}
+#listregis{
+	margin-left:1em;
+	padding-top:1em;
+	padding-left:1em;
+	border:1px solid #d4d4d7;
+	border-radius:3px 3px 3px 3px;
+	width:86%;
+	height:76%;
+}
+#repon{
+	text-align:center;
+	font-family:eim;
+	font-size:1em;
+	padding-top:5em;
+	color:red;
+}
+#table{
+	border-collapse:collapse;
+	width:100%;
+}
+#table td{
+	font-family:eim;
+	border:1px solid #d4d4d7;
+}

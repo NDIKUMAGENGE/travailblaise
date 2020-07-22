@@ -1,0 +1,46 @@
+#oldinfo{
+	font-family:eim;
+	background-color:#f2f2f2;
+}
+#oldinfo .title1{
+	font-size:1em;
+	color:#FF0000;
+}
+#oldinfo .title2{
+	font-size:0.8em;
+	color:#009933;
+}
+#title1{
+	font-family:eim;
+	font-size:1em;
+	color:#FF0000;
+}
+
+#deleteregis{
+	font-family:eim;
+	overflow:hidden;
+	background-color:#f2f2f2;
+}
+#deleteregis .title1{
+	display:block;
+	font-size:1.5em;
+	margin-bottom:2px;
+	color:#FF0000;
+}
+#deleteregis .rq{
+	padding-left:3px;
+	float:left;
+	text-align:left;
+	font-size:1.2em;
+	font-family:eim;
+	display:block;
+	width:9em;
+}
+#deleteregis .en{
+	text-align:left;
+	float:right;
+	font-family:eim;
+	font-size:1.2em;	
+	display:block;
+	width:15em;
+}

@@ -1,0 +1,129 @@
+
+body {
+	margin:10px; 
+	background-color: #F5F5F5; 
+	}
+#titre{
+	font-size :50px;
+	font-family :Courier New;
+	background-color :white;
+	text-align:center;
+	color:blue;
+		
+}
+.dlogo{
+	width:90%;
+	margin-left : 10%; 
+}
+#campus{
+	border:0;
+}
+#campus tr td {
+	border:0px;
+}
+
+#menuHoriz ul {
+ margin:0;
+ padding:0;
+ list-style-type:none;
+ text-align:center;
+ }
+#menuHoriz li {
+ float:left;
+ margin:auto;
+ padding:0;
+ background-color:black;
+ }
+#menuHoriz ul li a {
+ display:block;
+ width:230px;
+ color:white;
+ text-decoration:none;
+ padding:5px;
+ font-size :25px;
+font-family :arial;
+ }
+#menuHoriz ul li ul li a{
+font-size :15px;
+}
+#menuHoriz li a:hover {
+ color:#FFD700;
+ }
+ #menuHoriz  ul li ul {
+ display:none;
+ 
+ }
+ #menuHoriz ul li:hover ul {
+ display:block;
+  z-index : 10;
+ }
+#menuHoriz li:hover ul li {
+ float:none;
+ }
+ #menuHoriz li ul {
+ position:absolute;
+ 
+ }
+
+#cfooter {
+	position: fixed;
+    bottom: 0px;
+    left: 0px;
+    text-align: center;
+    width:100%;
+    margin-left: 0px;
+    vertical-align: bottom;
+    background-color: red;
+    height: 50px;	 
+ }
+#cfooter ul{
+ margin:0;
+ padding:0;
+ list-style-type:none;
+ text-align:center;	 
+ }
+ #cfooter ul li{
+	 float:left;
+     width :30%;
+ }
+ #cfooter ul li a{
+font-size :20px;
+font-family :arial;	 
+ }
+ 
+#bmenuvertu{
+	 width: 25%; /*250px;*/
+	 height:600px;
+	 position:relative;
+	 float:left;
+    background-color: aliceblue;
+ }
+ .contenu{
+	 
+	 width:65%; /*560px;*/
+	 height:600px;
+	 position:relative;
+	 float:left;
+margin-left :45px;	 
+	padding-left :10px;
+	 overflow : auto;
+	 background-color : #F8F8FF;
+	 
+ }
+ #navigation a{
+	 font-size : 20px;
+	 text-align : left;
+	 padding-top : 65px; 
+	 
+ }
+ #navigation{
+	 padding-top : 65px;
+ }
+ section{
+	 margin-left : 10%;
+	 width: 90%; /*850px*/
+	 /*margin:auto;*/
+	 height:600px;
+	
+	 
+ }
